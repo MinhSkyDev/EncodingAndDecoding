@@ -1,0 +1,5 @@
+Hè lô mọi người
+Đây là một mini-project khá là ngẫu nhiên mà mình đã nghĩ ra và thực hiện trong vòng đúng 20h ( mình vừa mới chỉ đọc tài liệu vào hôm trước và cảm thấy rất ấn tượng cho nên đã bắt tay vô làm lun )
+Ý tưởng của project này đó chính là một phương pháp mã hóa dữ liệu mà do chính mình tự định nghĩa phương pháp mã hóa. Để đơn giản thì đó chính là giả sử mình có một tin nhắn là "Emdeplam" và mình muốn mã hóa theo một "key" nhất định, thì mình sẽ thông qua chương trình này sẽ có được một tin nhắn được mã hóa thành các số theo cái "key" mà mình tự định nghĩa
+Nếu như một người nào đó muốn giải ra cái chuỗi này, thì bắt buộc bọn họ phải có cái "key" đó, vì thuật toán của mình được cài đặt bằng cách mô hình hóa các chuỗi sang các ma trận và thực hiện các thao tác ma trận với nhau cho nên xác suất để có hai key mà cùng đưa ra một lời giải thì sẽ rất là thấp ( hầu như là một song ánh )
+Đây chính là cách mà các công ty công nghệ lớn họ tự mã hóa dữ liệu của mình, có thể cái key của bọn họ là một cái gì đó
